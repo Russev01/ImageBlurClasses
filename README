@@ -1,6 +1,9 @@
 .gradle
 .idea
 for printing https://stackoverflow.com/questions/18404553/proper-way-of-printing-a-bufferedimage-in-java
+
 End of main  BufferedImage printImage=ImageIO.read(outputFIle);
             PrintActionListener printActionListener=new PrintActionListener(printImage);
             printActionListener.run();
+
+for main(args[???]) https://stackoverflow.com/questions/2066307/how-do-you-input-command-line-arguments-in-intellij-idea
