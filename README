@@ -1,3 +1,6 @@
 .gradle
 .idea
 for printing https://stackoverflow.com/questions/18404553/proper-way-of-printing-a-bufferedimage-in-java
+End of main  BufferedImage printImage=ImageIO.read(outputFIle);
+            PrintActionListener printActionListener=new PrintActionListener(printImage);
+            printActionListener.run();
